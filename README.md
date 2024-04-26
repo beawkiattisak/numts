@@ -82,8 +82,3 @@ const arr2d = [
 ];
 console.log(numts.sliceFromArray(arr2d[1], 1, 4)); // Output: [ 7, 8, 9 ]
 ```
-
-```
-
-Output :
->>>>>>> eed9d78 (0.1.0)
