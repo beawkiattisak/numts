@@ -11,7 +11,7 @@ Numts is a JavaScript library for numerical computing, offering functionality si
 You can install Numts via npm:
 
 ```bash
-npm install @furinax9/numts
+npm install @beawkiattisak/numts
 ```
 
 ## Usage
